@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 
-int s=0;
+int s = 0;
 long long int maxim;
 long long int ultima_cifra;
 long long int Y = 2;

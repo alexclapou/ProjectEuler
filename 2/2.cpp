@@ -17,13 +17,13 @@ void fib()
         if(prim % 2 != 0)
             ;
         else
-            s+=prim;         
-        prim +=secund;
+            s+= prim;         
+        prim += secund;
         if(secund % 2 != 0)
             ;
         else
-            s+=secund;    
-        secund +=prim;
+            s += secund;    
+        secund += prim;
         i++;
     }
     cout<<s;
